@@ -1,5 +1,7 @@
 #!/bin/bash
 
+https://github.com/iam-veeramalla/shell-scripting-projects/blob/main/github-api/list-users.sh
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
